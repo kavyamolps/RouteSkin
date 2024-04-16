@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.q{
+    width: 60%;
+    height: 500px;
+    background: white;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-radius: 15px 15px 15px 15px;
+}
+.q1{
+    margin-left: 5%;
+    padding-top: 8%;
+    font-size: 22px;
+}
+.q3{
+    margin-left: 5%;
+    font-size: 18px;
+}
+.logbutton1{
+    background: orange;
+    color: white;
+    width: 30%;
+    height: 34px;
+    border-radius: 6px 6px 6px 6px ;
+}
+.logbutton1:hover{
+    background:rgb(58, 58, 58);
+    cursor: pointer;
+    transition-duration: 0.9s;
+}
+.q4{
+    float: right;
+    margin-right: 10%;
+}
+.skintypefind1{
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-right: 10%;
+    width: 80%;
+    height: 600px;
+    background: white;
+    margin-top: 3%;
+    margin-left: 10%;
+    border-radius: 10px 10px 10px 10px;
+}
+.skintypefind2{
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-right: 10%;
+    width: 80%;
+    height: 470px;
+    background: white;
+    margin-top: 3%;
+    margin-left: 10%;
+    border-radius: 10px 10px 10px 10px;
+}
